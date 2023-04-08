@@ -13,7 +13,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Awesome Portfolio Built with Nextjs</title>
+        <title>
+          Guardian: Decentralized Air Quality and Seismic Activity Monitoring
+        </title>
         <meta
           name="description"
           content="Guardian: Protecting communities with decentralized air quality monitoring and seismic activity detection. Stay informed and prepared with real-time data."
