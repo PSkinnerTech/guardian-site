@@ -51,15 +51,10 @@ export default function Home() {
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
-                  href="https://v2.akord.com/public/vaults/active/M2hZy25EoD133W9PeNYsI3x_MwllS_uZy7l0Xbxmdjc/gallery#public/95a34f1a-1286-4370-8974-c8d14eeef793"
+                  href="https://v2.akord.com/public/vaults/active/M2hZy25EoD133W9PeNYsI3x_MwllS_uZy7l0Xbxmdjc/gallery#public/9990e44d-0c23-4f4d-8952-39ed327de972"
                   target={"_blank"}
-                  className="flex items-center bg-dark text-light p-2.5 px-6
-                  rounded-lg text-lg font-semibold hover:bg-light hover:text-dark
-                  border-2 border-solid border-transparent hover:border-dark
-                  
-                  dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light
-                  hover:dark:border-light md:p-2 md:px-4 md:text-base
-                  "
+                  className="flex items-center bg-dark text-light p-2 px-4 rounded-lg text-base font-semibold hover:bg-light hover:text-dark border-2 border-solid border-transparent hover:border-dark
+  dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light sm:p-2 sm:px-4 sm:text-sm md:p-2.5 md:px-6 md:text-lg"
                   download={true}
                 >
                   Whitepaper <LinkArrow className={"w-6 ml-1"} />

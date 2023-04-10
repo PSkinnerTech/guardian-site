@@ -140,7 +140,7 @@ const articles = () => {
 
             <FeaturedArticle
               img={HackathonWin}
-              title="https://blog.patrickskinner.tech/from-volcano-ashes-to-victory-my-72-hour-hackathon-journey-creating-airguardian"
+              title="From Volcano Ashes to Victory: My 72-Hour Hackathon Journey Creating AirGuardian"
               time="10 min read"
               summary="Join a developer's exciting journey to win first place in a Streamr Hackathon, creating AirGuardian, a decentralized air quality monitoring system, and the valuable lessons learned."
               link="https://blog.patrickskinner.tech/from-volcano-ashes-to-victory-my-72-hour-hackathon-journey-creating-airguardian"

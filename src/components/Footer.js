@@ -12,7 +12,7 @@ const Footer = () => {
       <Layout className="py-8 flex items-center justify-between lg:flex-col lg:py-6">
         <span>{new Date().getFullYear()} &copy; All Rights Reserved.</span>
         <div className="flex items-center lg:py-2">
-          Inspired By a{" "}
+          Inspired By a |
           <a
             href="https://streamr.network"
             className="underline
@@ -20,22 +20,22 @@ const Footer = () => {
             "
             target={"_blank"}
           >
-            <span className="text-primary dark:text-primary text-2xl px-2">
-              Streamr
-            </span>
+            Streamr
           </a>
-          Hackathon. Born from
+          | Hackathon.
+        </div>
+        <div className="flex items-center justify-center">
+          Born from |
           <a
             href="https://developerdao.com"
+            target={"_blank"}
             className="underline
             underline-offset-2
             "
-            target={"_blank"}
           >
-            <span className="text-primary dark:text-primary text-2xl px-2">
-              Developer DAO
-            </span>
+            D_D
           </a>
+          | Community.
         </div>
         <Link
           href="https://twitter.com/PSkinnertech"
