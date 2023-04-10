@@ -57,7 +57,8 @@ export default function Home() {
   dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light sm:p-2 sm:px-4 sm:text-sm md:p-2.5 md:px-6 md:text-lg"
                   download={true}
                 >
-                  Whitepaper <LinkArrow className={"w-6 ml-1"} />
+                  Whitepaper{" "}
+                  <LinkArrow className="w-4 ml-1 sm:w-5 sm:ml-1.5 md:w-6 md:ml-1" />
                 </Link>
                 <Link
                   href="mailto:me@patrickskinner.tech"
